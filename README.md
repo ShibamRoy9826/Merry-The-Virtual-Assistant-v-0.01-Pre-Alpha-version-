@@ -2,6 +2,7 @@
 She is  a perfect desktop assistant! you can easily use her to do all your daily pc jobs, and the greatest thing is that she works completely offline! she can do many works such as hearing jokes,stories, and just many more! you can use her with your voice also.
 Here is a list of functions that what she can do:-
 
+You can easily download here from here:- https://drive.google.com/file/d/1zpnsDRxx7ZtvE4u5dzjBATdKN1mI5YGI/view?usp=sharing
 Manual For M.E.R.R.Y: The Virtual Assistant
 ---------------------------------------------
 keywords for taking the commands:
@@ -91,3 +92,5 @@ Important Things to note
 
 ***Use Merry and enjoy!!!
 An Application Made by Shibam Roy!
+
+You can easily download here from here:- https://drive.google.com/file/d/1zpnsDRxx7ZtvE4u5dzjBATdKN1mI5YGI/view?usp=sharing
